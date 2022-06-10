@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\bin\Debug\net6.0\Aporte.exe
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\bin\Debug\net6.0\Aporte.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\bin\Debug\net6.0\Aporte.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\bin\Debug\net6.0\Aporte.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\bin\Debug\net6.0\Aporte.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\refint\Aporte.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\Aporte.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aporte\obj\Debug\net6.0\ref\Aporte.dll
